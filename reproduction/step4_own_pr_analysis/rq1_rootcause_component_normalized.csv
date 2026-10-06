@@ -1,0 +1,10 @@
+Root_Cause,AC Agent Construction,CS Core Schema,DP Data Preprocessing,FM Featured Module,Total
+R1 API Misuse,8.11,1.75,8.05,0.0,5.37
+R2 Incompatibility,5.41,14.04,5.75,4.17,7.8
+R3 Assignment Issue,10.81,12.28,9.2,4.17,9.76
+R4 Parameter/Argument Issue,8.11,17.54,16.09,12.5,14.63
+R5 Code Logic Issue,56.76,47.37,47.13,62.5,50.73
+R6 Import Error,0.0,1.75,1.15,0.0,0.98
+R7 Typo,5.41,0.0,1.15,0.0,1.46
+R8 Incorrect Exception Handling,5.41,3.51,9.2,16.67,7.8
+R9 Incorrect Numerical Computation,0.0,1.75,2.3,0.0,1.46

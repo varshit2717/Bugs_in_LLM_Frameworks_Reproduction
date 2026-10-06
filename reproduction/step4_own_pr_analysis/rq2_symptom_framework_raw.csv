@@ -1,0 +1,7 @@
+Symptom,Haystack,LangChain,LlamaIndex,Total
+S1 Crash,16,2,42,60
+S2 Incorrect Functionality,8,0,30,38
+S3 Unexpected Output,26,0,27,53
+S4 Hang,0,0,1,1
+S5 External Connection Failure,4,0,34,38
+S6 Unidentified,6,0,9,15

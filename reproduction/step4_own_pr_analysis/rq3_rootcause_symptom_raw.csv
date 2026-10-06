@@ -1,0 +1,10 @@
+Root_Cause,S1 Crash,S2 Incorrect Functionality,S3 Unexpected Output,S4 Hang,S5 External Connection Failure,S6 Unidentified,Total
+R1 API Misuse,5,2,2,0,2,0,11
+R2 Incompatibility,5,0,0,0,10,1,16
+R3 Assignment Issue,8,6,5,0,1,0,20
+R4 Parameter/Argument Issue,6,4,7,0,13,0,30
+R5 Code Logic Issue,24,24,32,1,9,14,104
+R6 Import Error,2,0,0,0,0,0,2
+R7 Typo,0,1,2,0,0,0,3
+R8 Incorrect Exception Handling,10,1,2,0,3,0,16
+R9 Incorrect Numerical Computation,0,0,3,0,0,0,3

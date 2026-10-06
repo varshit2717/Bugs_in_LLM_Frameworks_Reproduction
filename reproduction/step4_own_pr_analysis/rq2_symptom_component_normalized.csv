@@ -1,0 +1,7 @@
+Symptom,AC Agent Construction,CS Core Schema,DP Data Preprocessing,FM Featured Module,Total
+S1 Crash,27.03,22.81,34.48,29.17,29.27
+S2 Incorrect Functionality,37.84,14.04,18.39,0.0,18.54
+S3 Unexpected Output,18.92,29.82,22.99,37.5,25.85
+S4 Hang,2.7,0.0,0.0,0.0,0.49
+S5 External Connection Failure,13.51,28.07,18.39,4.17,18.54
+S6 Unidentified,0.0,5.26,5.75,29.17,7.32

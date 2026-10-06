@@ -1,0 +1,29 @@
+R1 API Misuse [5] S1 Crash
+R1 API Misuse [2] S2 Incorrect Functionality
+R1 API Misuse [2] S3 Unexpected Output
+R1 API Misuse [2] S5 External Connection Failure
+R2 Incompatibility [5] S1 Crash
+R2 Incompatibility [10] S5 External Connection Failure
+R2 Incompatibility [1] S6 Unidentified
+R3 Assignment Issue [8] S1 Crash
+R3 Assignment Issue [6] S2 Incorrect Functionality
+R3 Assignment Issue [5] S3 Unexpected Output
+R3 Assignment Issue [1] S5 External Connection Failure
+R4 Parameter/Argument Issue [6] S1 Crash
+R4 Parameter/Argument Issue [4] S2 Incorrect Functionality
+R4 Parameter/Argument Issue [7] S3 Unexpected Output
+R4 Parameter/Argument Issue [13] S5 External Connection Failure
+R5 Code Logic Issue [24] S1 Crash
+R5 Code Logic Issue [24] S2 Incorrect Functionality
+R5 Code Logic Issue [32] S3 Unexpected Output
+R5 Code Logic Issue [1] S4 Hang
+R5 Code Logic Issue [9] S5 External Connection Failure
+R5 Code Logic Issue [14] S6 Unidentified
+R6 Import Error [2] S1 Crash
+R7 Typo [1] S2 Incorrect Functionality
+R7 Typo [2] S3 Unexpected Output
+R8 Incorrect Exception Handling [10] S1 Crash
+R8 Incorrect Exception Handling [1] S2 Incorrect Functionality
+R8 Incorrect Exception Handling [2] S3 Unexpected Output
+R8 Incorrect Exception Handling [3] S5 External Connection Failure
+R9 Incorrect Numerical Computation [3] S3 Unexpected Output
